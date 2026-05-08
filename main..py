@@ -6,6 +6,7 @@ students = [
     {"name": "Carlos", "scores": [95, 98, 100]},
     {"name": "Diana", "scores": [55, 60, 58]},
     {"name": "Eve", "scores": [72, 68, 75]},
+    {"name": "Ian", "scores": [92, 93, 97]},
 ]
 
 print("=" * 55)
