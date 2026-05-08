@@ -18,3 +18,5 @@ def get_highest(scores):
 
 def get_lowest(scores):
     return min(scores)
+
+print("Mekier was here")
